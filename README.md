@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Basit Behlim 👋
+# Hi there, Myself Abdul Basit Behlim 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Scientist;Computational+Biology;Bioinformatics;AI+%26+Machine+Learning;Deep+Learning+%26+GenAI;Always+Learning)](https://git.io/typing-svg)
 
