@@ -1,31 +1,29 @@
 <div align="center">
 
-<!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,30&height=8&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,30&height=6&section=header" width="100%" alt=""/>
 
 <br/>
 
-<!-- Static name – not animated -->
-# Abdul Basit Behlim
+# Hi there, Myself Abdul Basit Behlim 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles"/>
 
 <br/>
 
-<!-- Icon-only social links (click to open profile) -->
-<a href="https://github.com/abdulbasitbehlim" title="GitHub">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulbasitbehlim" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/>
-</a>
-&nbsp;
-<a href="https://abdulbasitbehlim.github.io/" title="Portfolio">
-  <img src="https://img.shields.io/badge/-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="32"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Views&color=22d3ee&style=for-the-badge" alt="Views" height="32"/>
+<!-- Social icons – same style used on most GitHub profiles -->
+<p>
+  <a href="https://github.com/abdulbasitbehlim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdulbasitbehlim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://abdulbasitbehlim.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -37,7 +35,7 @@ I'm a passionate learner exploring the intersection of **Data Science**, **Compu
 
 I enjoy building practical Python projects and solving real-world problems through code.
 
-📍 **Gandhinagar, Gujarat** · Gujarat Biotechnology University · [Portfolio](https://abdulbasitbehlim.github.io/)
+📍 **Gandhinagar, Gujarat** · Gujarat Biotechnology University · [Portfolio Website](https://abdulbasitbehlim.github.io/)
 
 ---
 
@@ -110,17 +108,14 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<!-- Icon-only – click opens profile -->
-<a href="https://github.com/abdulbasitbehlim" title="GitHub Profile">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub" width="28" height="28"/>
+<a href="https://github.com/abdulbasitbehlim" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdulbasitbehlim" title="LinkedIn Profile">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="28" height="28"/>
+<a href="https://www.linkedin.com/in/abdulbasitbehlim" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://abdulbasitbehlim.github.io/" title="Portfolio Website">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" alt="Portfolio" width="28" height="28"/>
+<a href="https://abdulbasitbehlim.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -129,7 +124,6 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 </div>
 
-<!-- Animated gradient footer line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,30,2,2,0&height=8&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,30,2,2,0&height=6&section=footer" width="100%" alt=""/>
 
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
