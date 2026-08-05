@@ -1,29 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,30&height=6&section=header" width="100%" alt=""/>
-
-<br/>
-
-# Hi there, Myself Abdul Basit Behlim 👋
+# Hi there, myself Abdul Basit Behlim 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles"/>
 
 <br/>
 
-<!-- Social icons – same style used on most GitHub profiles -->
-<p>
-  <a href="https://github.com/abdulbasitbehlim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdulbasitbehlim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://abdulbasitbehlim.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<!-- Social badges – spaced cleanly, no underline artifacts -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
 
-<img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20Views&color=22d3ee&style=flat-square" alt="Profile views"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20Views&color=0891b2&style=flat-square)
 
 </div>
 
@@ -60,16 +50,16 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -93,12 +83,15 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitbehlim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages"/>
+<img src="https://stats.justsong.cn/api/github?username=abdulbasitbehlim" alt="GitHub Stats" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -108,22 +101,16 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<a href="https://github.com/abdulbasitbehlim" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulbasitbehlim" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://abdulbasitbehlim.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=420&lines=Thanks+for+visiting!;Open+to+collaborations+%26+opportunities" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,30,2,2,0&height=6&section=footer" width="100%" alt=""/>
+---
 
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
