@@ -126,7 +126,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<!-- Main GitHub Stats (live) -->
+<!-- Main GitHub Stats (live & fixed) -->
 [![abdulbasitbehlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyo-night&hide_border=true)](https://github.com/abdulbasitbehlim)
 
 <br/><br/>
