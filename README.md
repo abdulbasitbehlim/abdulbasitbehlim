@@ -131,17 +131,12 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Abdul Basit Behlim's GitHub stats" height="170"/>
-
-<br/><br/>
-
-<!-- Streak Stats (reliable) -->
+<!-- Streak Stats (working) -->
 <img src="https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph (working) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
@@ -163,8 +158,6 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <br/>
 
-⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
-
 <!-- ========== WATER WAVE FOOTER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
@@ -172,3 +165,4 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 ---
 
+⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
