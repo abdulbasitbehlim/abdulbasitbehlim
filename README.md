@@ -1,10 +1,10 @@
-<div align="center">
 
-# Hi there, Myself Abdul Basit Behlim 👋
 
 <!-- Water Wave Animation for Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=header" width="100%" alt="Header Wave"/>
+<div align="center">
 
+# Hi there, Myself Abdul Basit Behlim 👋
 <br/>
 
 <!-- Typing SVG -->
