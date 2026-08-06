@@ -78,8 +78,8 @@ I enjoy building practical Python projects and solving real-world problems throu
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer"><strong>CRISPR sgRNA Designer</strong></a></td>
-      <td>Interactive Streamlit web app for CRISPR sgRNA design — guide RNA target prediction, PAM matching, off-target analysis and score calculation using Python and bioinformatics libraries</td>
+      <td><a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer"><strong>CRISPR gRNA Designer</strong></a></td>
+      <td>A Python/Streamlit tool that turns a gene name + organism into ranked SpCas9 guide RNAs for CRISPR knockout or knockdown. Features automatic NCBI/Ensembl fetching, on-target scoring, validation, and CSV/Excel export.</td>
       <td>Python · Streamlit · Bioinformatics</td>
     </tr>
     <tr>
@@ -132,32 +132,3 @@ I enjoy building practical Python projects and solving real-world problems throu
 <br/><br/>
 
 <!-- Streak Stats (official & live) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyo-night)](https://git.io/streak-stats)
-
-<br/><br/>
-
-<!-- Contribution Graph (live) -->
-[![abdulbasitbehlim's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
-
-<br/>
-
-<!-- Water Wave Animation for Footer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
-
-</div>
-
----
-
-⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
