@@ -1,11 +1,11 @@
-
-
-<!-- Water Wave Animation for Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=header" width="100%" alt="Header Wave"/>
 <div align="center">
 
-# Hi there, Myself Abdul Basit Behlim 👋
+<!-- ========== WATER WAVE HEADER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=140&section=header" width="100%" alt="Header Wave"/>
+
 <br/>
+
+# Hi there, Myself Abdul Basit Behlim 👋
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles" />
@@ -131,18 +131,18 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<!-- Main GitHub Stats -->
-[![abdulbasitbehlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/abdulbasitbehlim)
+<!-- Main Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Abdul Basit Behlim's GitHub stats" height="170"/>
 
 <br/><br/>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Streak Stats (reliable) -->
+<img src="https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-[![abdulbasitbehlim's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -163,8 +163,8 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <br/>
 
-<!-- Water Wave Animation for Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer" width="100%" alt="Footer Wave"/>
+<!-- ========== WATER WAVE FOOTER ========== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
 
