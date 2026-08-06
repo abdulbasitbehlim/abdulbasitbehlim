@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, myself Abdul Basit Behlim 👋
+# Hi there, Myself Abdul Basit Behlim 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles"/>
 
@@ -35,10 +35,11 @@ I enjoy building practical Python projects and solving real-world problems throu
 - Developing AI-powered tools and interactive dashboards
 - Exploring applications of **ML in Bioinformatics**
 - Building practical Python projects
+- CRISPR sgRNA design & genome editing tools
 
 ### Currently Learning
 
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Generative AI` `Data Science` `Bioinformatics` `Advanced Python` `Flask`
+`Artificial Intelligence` `Machine Learning` `Deep Learning` `Generative AI` `Data Science` `Bioinformatics` `Advanced Python` `Flask` `CRISPR`
 
 ---
 
@@ -56,7 +57,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4R?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -76,6 +77,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 | [Snake Water Gun](https://github.com/abdulbasitbehlim/Snake-Water-Gun) | Classic Indian version of Rock-Paper-Scissors | Python |
 | [Rock Paper Scissors](https://github.com/abdulbasitbehlim/Rock-Paper-Scissors) | Simple command-line Rock Paper Scissors game | Python |
 | [Number Guessing Game](https://github.com/abdulbasitbehlim/Number-Guessing-Game) | Fun number guessing game with hints | Python |
+| [CRISPR sgRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer) | Interactive Streamlit web app for CRISPR sgRNA design — guide RNA target prediction, PAM matching, off-target analysis and score calculation using Python and bioinformatics libraries | Python · Streamlit · Bioinformatics |
 
 ---
 
