@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- Social badges – spaced cleanly -->
+<!-- Social badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
@@ -22,8 +22,7 @@
 
 ### Data Scientist · Computational Biology · Bioinformatics
 
-I'm a passionate learner exploring the intersection of **Data Science**, **Computational Biology**, and **Bioinformatics**.
-
+I'm a passionate learner exploring the intersection of **Data Science**, **Computational Biology**, and **Bioinformatics**.  
 I enjoy building practical Python projects and solving real-world problems through code.
 
 📍 **Gandhinagar, Gujarat** · Gujarat Biotechnology University · [Portfolio Website](https://abdulbasitbehlim.github.io/)
@@ -79,42 +78,42 @@ I enjoy building practical Python projects and solving real-world problems throu
   </thead>
   <tbody>
     <tr>
-      <td>[CRISPR sgRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer"><strong>CRISPR sgRNA Designer</strong></a></td>
       <td>Interactive Streamlit web app for CRISPR sgRNA design — guide RNA target prediction, PAM matching, off-target analysis and score calculation using Python and bioinformatics libraries</td>
       <td>Python · Streamlit · Bioinformatics</td>
     </tr>
     <tr>
-      <td>[ABB Bank](https://github.com/abdulbasitbehlim/ABB-Bank)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/ABB-Bank"><strong>ABB Bank</strong></a></td>
       <td>Full-stack Bank Management System (educational demo) – 2FA, Admin Panel, Loans, Savings Goals, PDF Statements & AI Chatbot</td>
       <td>Python · Flask · SQLite · Bootstrap · JS</td>
     </tr>
     <tr>
-      <td>[Jarvis AI Assistant](https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant"><strong>Jarvis AI Assistant</strong></a></td>
       <td>Voice-controlled AI assistant inspired by Jarvis</td>
       <td>Python · OpenAI · SpeechRecognition</td>
     </tr>
     <tr>
-      <td>[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard"><strong>AMS Venom Diagnostic Dashboard</strong></a></td>
       <td>Interactive Streamlit dashboard for venom diagnostics</td>
       <td>Python · Streamlit · Matplotlib</td>
     </tr>
     <tr>
-      <td>[File & Folder Manager OS](https://github.com/abdulbasitbehlim/File_Folder_Handling_OS)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/File_Folder_Handling_OS"><strong>File & Folder Manager OS</strong></a></td>
       <td>Interactive command-line File & Folder Manager</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td>[Snake Water Gun](https://github.com/abdulbasitbehlim/Snake-Water-Gun)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/Snake-Water-Gun"><strong>Snake Water Gun</strong></a></td>
       <td>Classic Indian version of Rock-Paper-Scissors</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td>[Rock Paper Scissors](https://github.com/abdulbasitbehlim/Rock-Paper-Scissors)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/Rock-Paper-Scissors"><strong>Rock Paper Scissors</strong></a></td>
       <td>Simple command-line Rock Paper Scissors game</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td>[Number Guessing Game](https://github.com/abdulbasitbehlim/Number-Guessing-Game)</td>
+      <td><a href="https://github.com/abdulbasitbehlim/Number-Guessing-Game"><strong>Number Guessing Game</strong></a></td>
       <td>Fun number guessing game with hints</td>
       <td>Python</td>
     </tr>
@@ -154,6 +153,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <br/>
 
+<!-- Water Wave Animation for Footer -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
 
 </div>
