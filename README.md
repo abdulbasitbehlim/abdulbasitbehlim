@@ -1,3 +1,14 @@
+<div class="water-container">
+  <svg class="water-wave" viewBox="0 0 1440 320">
+    <path fill="#3b82f6" fill-opacity="0.7" d="M0,192L48,213.3C96,235,192,277,288,277.3C384,277,480,235,576,213.3C672,192,768,192,864,197.3C960,203,1056,213,1152,213.3C1248,213,1344,203,1392,197.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+  </svg>
+</div>
+
+<style>
+.water-container { overflow: hidden; position: relative; height: 10px; margin: 0; }
+.water-wave { animation: wave 8s linear infinite; width: 100%; height: 10px; }
+@keyframes wave { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+</style>
 <div align="center">
 
 # Hi there, myself Abdul Basit Behlim 👋
