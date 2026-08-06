@@ -2,11 +2,12 @@
 
 # Hi there, Myself Abdul Basit Behlim 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles"/>
+<!-- Water Wave Animation for Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles" />
 
 <br/>
 
-<!-- Social badges – spaced cleanly, no underline artifacts -->
+<!-- Social badges – spaced cleanly -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
@@ -68,16 +69,57 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 ### Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [ABB Bank](https://github.com/abdulbasitbehlim/ABB-Bank) | Full-stack Bank Management System (educational demo) – 2FA, Admin Panel, Loans, Savings Goals, PDF Statements & AI Chatbot | Python · Flask · SQLite · Bootstrap · JS |
-| [Jarvis AI Assistant](https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant) | Voice-controlled AI assistant inspired by Jarvis | Python · OpenAI · SpeechRecognition |
-| [AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard) | Interactive Streamlit dashboard for venom diagnostics | Python · Streamlit · Matplotlib |
-| [File & Folder Manager OS](https://github.com/abdulbasitbehlim/File_Folder_Handling_OS) | Interactive command-line File & Folder Manager | Python |
-| [Snake Water Gun](https://github.com/abdulbasitbehlim/Snake-Water-Gun) | Classic Indian version of Rock-Paper-Scissors | Python |
-| [Rock Paper Scissors](https://github.com/abdulbasitbehlim/Rock-Paper-Scissors) | Simple command-line Rock Paper Scissors game | Python |
-| [Number Guessing Game](https://github.com/abdulbasitbehlim/Number-Guessing-Game) | Fun number guessing game with hints | Python |
-| [CRISPR sgRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer) | Interactive Streamlit web app for CRISPR sgRNA design — guide RNA target prediction, PAM matching, off-target analysis and score calculation using Python and bioinformatics libraries | Python · Streamlit · Bioinformatics |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[CRISPR sgRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-sgRNA-Designer)</td>
+      <td>Interactive Streamlit web app for CRISPR sgRNA design — guide RNA target prediction, PAM matching, off-target analysis and score calculation using Python and bioinformatics libraries</td>
+      <td>Python · Streamlit · Bioinformatics</td>
+    </tr>
+    <tr>
+      <td>[ABB Bank](https://github.com/abdulbasitbehlim/ABB-Bank)</td>
+      <td>Full-stack Bank Management System (educational demo) – 2FA, Admin Panel, Loans, Savings Goals, PDF Statements & AI Chatbot</td>
+      <td>Python · Flask · SQLite · Bootstrap · JS</td>
+    </tr>
+    <tr>
+      <td>[Jarvis AI Assistant](https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant)</td>
+      <td>Voice-controlled AI assistant inspired by Jarvis</td>
+      <td>Python · OpenAI · SpeechRecognition</td>
+    </tr>
+    <tr>
+      <td>[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)</td>
+      <td>Interactive Streamlit dashboard for venom diagnostics</td>
+      <td>Python · Streamlit · Matplotlib</td>
+    </tr>
+    <tr>
+      <td>[File & Folder Manager OS](https://github.com/abdulbasitbehlim/File_Folder_Handling_OS)</td>
+      <td>Interactive command-line File & Folder Manager</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>[Snake Water Gun](https://github.com/abdulbasitbehlim/Snake-Water-Gun)</td>
+      <td>Classic Indian version of Rock-Paper-Scissors</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>[Rock Paper Scissors](https://github.com/abdulbasitbehlim/Rock-Paper-Scissors)</td>
+      <td>Simple command-line Rock Paper Scissors game</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>[Number Guessing Game](https://github.com/abdulbasitbehlim/Number-Guessing-Game)</td>
+      <td>Fun number guessing game with hints</td>
+      <td>Python</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -85,15 +127,18 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<img src="https://stats.justsong.cn/api/github?username=abdulbasitbehlim" alt="GitHub Stats" height="170"/>
+<!-- Main GitHub Stats (live) -->
+[![abdulbasitbehlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&theme=tokyo-night&hide_border=true)](https://github.com/abdulbasitbehlim)
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<!-- Streak Stats (official & live) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyo-night)](https://git.io/streak-stats)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<!-- Contribution Graph (live) -->
+[![abdulbasitbehlim's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -109,7 +154,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
 
 </div>
 
