@@ -153,7 +153,9 @@ I enjoy building practical Python projects and solving real-world problems throu
 <!-- Typing SVG Footer -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
 <br/>
+
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
+
 
 > **“The only way to do great work is to love what you do.”**  
 > Let’s keep building, experimenting, and turning ideas into powerful solutions.  
