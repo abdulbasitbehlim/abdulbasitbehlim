@@ -131,7 +131,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <!-- Contribution Graph (working) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
@@ -152,9 +152,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <!-- Typing SVG Footer -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
-
 <br/>
-
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
 
 > **“The only way to do great work is to love what you do.”**  
