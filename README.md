@@ -157,7 +157,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 <br/>
 
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
-### Mind Changer Quote 🌟
+
 
 > **“The only way to do great work is to love what you do.”**  
 > — Steve Jobs  
