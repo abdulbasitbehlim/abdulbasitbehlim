@@ -1,3 +1,5 @@
+<div align="center">
+  
 <!-- ========== WATER WAVE HEADER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=140&section=header" width="100%" alt="Header Wave"/>
 
@@ -141,7 +143,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 ---
 
-### Connect
+### Connect with Me
 
 <div align="center">
 
@@ -159,7 +161,6 @@ I enjoy building practical Python projects and solving real-world problems throu
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
 
 > **“The only way to do great work is to love what you do.”**  
-> — Steve Jobs  
 >  
 > Let’s keep building, experimenting, and turning ideas into powerful solutions.  
 > 🚀
