@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- ========== WATER WAVE HEADER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=140&section=header" width="100%" alt="Header Wave"/>
 
@@ -61,7 +59,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -159,13 +157,16 @@ I enjoy building practical Python projects and solving real-world problems throu
 <br/>
 
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
+### Mind Changer Quote 🌟
 
+> **“The only way to do great work is to love what you do.”**  
+> — Steve Jobs  
+>  
+> Let’s keep building, experimenting, and turning ideas into powerful solutions.  
+> 🚀
 
 <!-- ========== WATER WAVE FOOTER ========== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
-
----
-
 
