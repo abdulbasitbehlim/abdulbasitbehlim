@@ -131,9 +131,6 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 <div align="center">
 
-<!-- Streak Stats (working) -->
-<img src="https://streak-stats.demolab.com/?user=abdulbasitbehlim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-
 <br/><br/>
 
 <!-- Contribution Graph (working) -->
