@@ -158,7 +158,6 @@ I enjoy building practical Python projects and solving real-world problems throu
 
 ⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
 
-
 > **“The only way to do great work is to love what you do.”**  
 > — Steve Jobs  
 >  
@@ -169,4 +168,7 @@ I enjoy building practical Python projects and solving real-world problems throu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
+
+---
+
 
