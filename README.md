@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=150&section=header" width="100%" alt="Profile header" />
 
-# Hi, I'm Abdul Basit Behlim 👋
+# **Hi there, Myself Abdul Basit Behlim 👋**
 
-### Industrial Biotechnology · Data Science · Computational Biology
+### Industrial Biotechnology · Data Science · Computational Biology · Bioinformatican
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=M.Sc.+Industrial+Biotechnology+%40+GBU;Bioinformatics+%2B+Scientific+Software;Machine+Learning+for+Biological+Systems;Turning+biological+questions+into+code" alt="Professional focus" />
 
@@ -74,12 +74,12 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 </div>
 
-## Featured projects
+## Featured repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 CRISPR Studio — gRNA Designer</h3>
+      <h3><a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer">🧬 CRISPR Studio — gRNA Designer</a></h3>
       <p>Interactive Streamlit workbench for discovering, ranking, validating, and exporting SpCas9 guide RNA candidates, with NCBI/Ensembl retrieval and a transparent local-reference specificity screen.</p>
       <p>
         <a href="https://crispr-grna-designer-v6mhgxd4o3eqbhgur3anvh.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
@@ -88,7 +88,7 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
       <p><code>Python</code> <code>Streamlit</code> <code>Biopython</code> <code>Plotly</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 ABB Bank</h3>
+      <h3><a href="https://github.com/abdulbasitbehlim/ABB-Bank">🏦 ABB Bank</a></h3>
       <p>Educational full-stack banking system with account management, transactions, TOTP two-factor authentication, loans, savings goals, PDF statements, and an administration panel.</p>
       <p><a href="https://github.com/abdulbasitbehlim/ABB-Bank"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View ABB Bank" /></a></p>
       <p><code>Python</code> <code>Flask</code> <code>SQLite</code> <code>Bootstrap</code></p>
@@ -96,13 +96,13 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 AMS Venom Diagnostic Dashboard</h3>
+      <h3><a href="https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard">🐍 AMS Venom Diagnostic Dashboard</a></h3>
       <p>Interactive dashboard that simulates antigen–scFv binding signals for five snake species, with adjustable sensor noise, species filters, and annotated concentration peaks.</p>
       <p><a href="https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View venom dashboard" /></a></p>
       <p><code>Python</code> <code>Streamlit</code> <code>NumPy</code> <code>Matplotlib</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Jarvis AI Assistant</h3>
+      <h3><a href="https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant">🎙️ Jarvis AI Assistant</a></h3>
       <p>Voice-controlled desktop assistant with wake-word recognition, text-to-speech, web and music controls, news retrieval, and AI-generated responses.</p>
       <p><a href="https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Jarvis" /></a></p>
       <p><code>Python</code> <code>OpenAI API</code> <code>Speech Recognition</code></p>
@@ -125,12 +125,27 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="Abdul Basit's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitbehlim&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most-used languages" />
+<a href="https://github.com/abdulbasitbehlim">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulbasitbehlim&theme=tokyonight" alt="Abdul Basit's GitHub profile summary" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulbasitbehlim&theme=tokyonight" alt="GitHub repository statistics" />
+</a>
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulbasitbehlim&theme=tokyonight" alt="Repositories by language" />
+</a>
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulbasitbehlim&theme=tokyonight" alt="Most-used commit languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/abdulbasitbehlim">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+</a>
 
 </div>
 
