@@ -1,9 +1,10 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=210&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Biotechnology%20%7C%20Data%20%7C%20Software&descSize=16&descAlignY=55" alt="Animated profile header" />
 
 # **Hi there, Myself Abdul Basit Behlim 👋**
 
-### Industrial Biotechnology · Data Science · Computational Biology · Bioinformatican
+### Industrial Biotechnology · Data Science · Computational Biology · Bioinformatics
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=M.Sc.+Industrial+Biotechnology+%40+GBU;Bioinformatics+%2B+Scientific+Software;Machine+Learning+for+Biological+Systems;Turning+biological+questions+into+code" alt="Professional focus" />
 
@@ -124,27 +125,44 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 <div align="center">
 
-<a href="https://github.com/abdulbasitbehlim">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulbasitbehlim&theme=tokyonight" alt="Abdul Basit's GitHub profile summary" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulbasitbehlim&theme=tokyonight" alt="GitHub repository statistics" />
+<a href="https://github.com/abdulbasitbehlim?tab=followers">
+  <img src="https://img.shields.io/github/followers/abdulbasitbehlim?style=for-the-badge&logo=github&label=Followers&color=0891B2" alt="Live GitHub followers" />
 </a>
 <a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulbasitbehlim&theme=tokyonight" alt="Repositories by language" />
-</a>
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulbasitbehlim&theme=tokyonight" alt="Most-used commit languages" />
+  <img src="https://img.shields.io/github/stars/abdulbasitbehlim?style=for-the-badge&logo=github&label=Stars&color=7C3AED&affiliations=OWNER" alt="Live GitHub stars" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/abdulbasitbehlim">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live GitHub profile summary" />
 </a>
+
+<br/><br/>
+
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live GitHub repository statistics" />
+</a>
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live repositories by language" />
+</a>
+
+<br/>
+
+<a href="https://github.com/abdulbasitbehlim?tab=repositories">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live most-used commit languages" />
+</a>
+<a href="https://github.com/abdulbasitbehlim">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulbasitbehlim&theme=tokyonight&utcOffset=5.5&animation=load&duration=2" alt="Live productive-time analytics" />
+</a>
+
+<br/><br/>
+
+<sub>Live public GitHub analytics — cards refresh automatically as repositories and activity change.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/abdulbasitbehlim"><strong>View my complete GitHub activity →</strong></a>
 
 </div>
 
@@ -160,8 +178,14 @@ I enjoy collaborating on projects where **biotechnology, computation, and practi
 
 <br/><br/>
 
-<sub>Thanks for visiting — explore a project, open an issue, or start a conversation.</sub>
+<sub>Thanks for visiting my profile — explore a project, open an issue, or start a conversation.</sub>
 
+<br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile!;Open+to+research+and+collaboration;Let%27s+build+something+meaningful" alt="Animated footer message" />
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=135&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=78" alt="Animated profile footer" />
 
 </div>
