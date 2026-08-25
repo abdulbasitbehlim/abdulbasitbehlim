@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=150&section=header" width="100%" alt="Profile header" />
-
 # Hi, I'm Abdul Basit Behlim 👋
 
 ### Industrial Biotechnology · Data Science · Computational Biology
