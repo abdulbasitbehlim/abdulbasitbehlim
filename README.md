@@ -158,10 +158,6 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 <br/><br/>
 
-<sub>Live public GitHub analytics — cards refresh automatically as repositories and activity change.</sub>
-
-<br/><br/>
-
 <a href="https://github.com/abdulbasitbehlim"><strong>View my complete GitHub activity →</strong></a>
 
 </div>
@@ -176,15 +172,10 @@ I enjoy collaborating on projects where **biotechnology, computation, and practi
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 
-<br/><br/>
-
 <sub>Thanks for visiting — explore a project, open an issue, or start a conversation.</sub>
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+my+profile!;Open+to+research+and+collaboration;Let%27s+build+something+meaningful" alt="Animated footer message" />
 
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=135&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=78" alt="Animated profile footer" />
 
