@@ -178,7 +178,7 @@ I enjoy collaborating on projects where **biotechnology, computation, and practi
 
 <br/><br/>
 
-<sub>Thanks for visiting my profile — explore a project, open an issue, or start a conversation.</sub>
+<sub>Thanks for visiting — explore a project, open an issue, or start a conversation.</sub>
 
 <br/><br/>
 
