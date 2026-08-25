@@ -1,171 +1,153 @@
 <div align="center">
-  
-<!-- ========== WATER WAVE HEADER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=140&section=header" width="100%" alt="Header Wave"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=150&section=header" width="100%" alt="Profile header" />
 
-# Hi there, Myself Abdul Basit Behlim 👋
+# Hi, I'm Abdul Basit Behlim 👋
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Computational+Biology;Bioinformatics+%7C+Python+Developer;Building+practical+solutions+with+code" alt="Roles" />
+### Industrial Biotechnology · Data Science · Computational Biology
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=M.Sc.+Industrial+Biotechnology+%40+GBU;Bioinformatics+%2B+Scientific+Software;Machine+Learning+for+Biological+Systems;Turning+biological+questions+into+code" alt="Professional focus" />
 
-<!-- Social badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
+<p>
+  <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20Views&color=0891b2&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20views&color=0891B2&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+## About me
 
-### Data Scientist · Computational Biology · Bioinformatics
+I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology University** working at the intersection of biology, data, and software. I build practical tools that turn complex biological questions into transparent, reproducible workflows—from CRISPR guide design and structural bioinformatics to machine learning for bioprocess data.
 
-I'm a passionate learner exploring the intersection of **Data Science**, **Computational Biology**, and **Bioinformatics**.  
-I enjoy building practical Python projects and solving real-world problems through code.
+- 🧬 Building explainable bioinformatics and CRISPR-design tools
+- 🧫 Exploring machine learning and digital twins for industrial fermentation
+- 💊 Experienced with structure-based drug discovery, docking, and molecular dynamics workflows
+- 📊 Creating scientific dashboards and data-driven applications with Python
+- 🤝 Open to research collaborations, internships, and interdisciplinary projects
 
-📍 **Gandhinagar, Gujarat** · Gujarat Biotechnology University · [Portfolio Website](https://abdulbasitbehlim.github.io/)
+## Highlights
 
----
+| | |
+|---|---|
+| 🎓 **Education** | M.Sc. Industrial Biotechnology, Gujarat Biotechnology University |
+| 🏅 **National rank** | GAT-B 2025 — All India Rank 62; DBT-supported graduate fellowship |
+| 🔬 **Research** | Structure-based study of human β-cardiac myosin inhibitors at IIT Roorkee |
+| 🏆 **Recognition** | Best Student of the Year Award (2022–24), MBSI with HiMedia Laboratories |
 
-### Currently Working On
-
-- Learning **AI, Machine Learning, Deep Learning & Generative AI**
-- Developing AI-powered tools and interactive dashboards
-- Exploring applications of **ML in Bioinformatics**
-- Building practical Python projects
-- CRISPR sgRNA design & genome editing tools
-
-### Currently Learning
-
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Generative AI` `Data Science` `Bioinformatics` `Advanced Python` `Flask` `CRISPR`
-
----
-
-### Languages & Tech Stack
+## Technical toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,linux,vscode&theme=dark" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,linux,vscode&theme=dark" alt="Core technology icons" />
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite](https://img.shields.io/badge/Sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Data, visualization & scientific computing**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square)
+
+**Bioinformatics & computational biology**
+
+![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
+![CRISPR](https://img.shields.io/badge/CRISPR%20sgRNA%20Design-0891B2?style=flat-square)
+![NCBI](https://img.shields.io/badge/NCBI%20APIs-205493?style=flat-square)
+![Ensembl](https://img.shields.io/badge/Ensembl-6B7280?style=flat-square)
+![ChimeraX](https://img.shields.io/badge/UCSF%20ChimeraX-16A34A?style=flat-square)
+![HADDOCK](https://img.shields.io/badge/HADDOCK-2563EB?style=flat-square)
+![Schrodinger](https://img.shields.io/badge/Schrodinger%20Suite-111827?style=flat-square)
+
+**Application development**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
----
-
-### Featured Projects
+## Featured projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer"><strong>CRISPR gRNA Designer</strong></a></td>
-      <td>A Python/Streamlit tool that turns a gene name + organism into ranked SpCas9 guide RNAs for CRISPR knockout or knockdown. Features automatic NCBI/Ensembl fetching, on-target scoring, validation, and CSV/Excel export.</td>
-      <td>Python · Streamlit · Bioinformatics</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/ABB-Bank"><strong>ABB Bank</strong></a></td>
-      <td>Full-stack Bank Management System (educational demo) – 2FA, Admin Panel, Loans, Savings Goals, PDF Statements & AI Chatbot</td>
-      <td>Python · Flask · SQLite · Bootstrap · JS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant"><strong>Jarvis AI Assistant</strong></a></td>
-      <td>Voice-controlled AI assistant inspired by Jarvis</td>
-      <td>Python · OpenAI · SpeechRecognition</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard"><strong>AMS Venom Diagnostic Dashboard</strong></a></td>
-      <td>Interactive Streamlit dashboard for venom diagnostics</td>
-      <td>Python · Streamlit · Matplotlib</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/File_Folder_Handling_OS"><strong>File & Folder Manager OS</strong></a></td>
-      <td>Interactive command-line File & Folder Manager</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/Snake-Water-Gun"><strong>Snake Water Gun</strong></a></td>
-      <td>Classic Indian version of Rock-Paper-Scissors</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/Rock-Paper-Scissors"><strong>Rock Paper Scissors</strong></a></td>
-      <td>Simple command-line Rock Paper Scissors game</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/abdulbasitbehlim/Number-Guessing-Game"><strong>Number Guessing Game</strong></a></td>
-      <td>Fun number guessing game with hints</td>
-      <td>Python</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 CRISPR Studio — gRNA Designer</h3>
+      <p>Interactive Streamlit workbench for discovering, ranking, validating, and exporting SpCas9 guide RNA candidates, with NCBI/Ensembl retrieval and a transparent local-reference specificity screen.</p>
+      <p>
+        <a href="https://crispr-grna-designer-v6mhgxd4o3eqbhgur3anvh.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
+        <a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
+      </p>
+      <p><code>Python</code> <code>Streamlit</code> <code>Biopython</code> <code>Plotly</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 ABB Bank</h3>
+      <p>Educational full-stack banking system with account management, transactions, TOTP two-factor authentication, loans, savings goals, PDF statements, and an administration panel.</p>
+      <p><a href="https://github.com/abdulbasitbehlim/ABB-Bank"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View ABB Bank" /></a></p>
+      <p><code>Python</code> <code>Flask</code> <code>SQLite</code> <code>Bootstrap</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐍 AMS Venom Diagnostic Dashboard</h3>
+      <p>Interactive dashboard that simulates antigen–scFv binding signals for five snake species, with adjustable sensor noise, species filters, and annotated concentration peaks.</p>
+      <p><a href="https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View venom dashboard" /></a></p>
+      <p><code>Python</code> <code>Streamlit</code> <code>NumPy</code> <code>Matplotlib</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Jarvis AI Assistant</h3>
+      <p>Voice-controlled desktop assistant with wake-word recognition, text-to-speech, web and music controls, news retrieval, and AI-generated responses.</p>
+      <p><a href="https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Jarvis" /></a></p>
+      <p><code>Python</code> <code>OpenAI API</code> <code>Speech Recognition</code></p>
+    </td>
+  </tr>
 </table>
 
----
+<div align="center">
+  <a href="https://github.com/abdulbasitbehlim?tab=repositories"><strong>Explore all repositories →</strong></a>
+</div>
 
-### GitHub Stats
+## Research interests
+
+- **Bioprocess intelligence:** predictive models, fault-aware analysis, and digital twins for fermentation
+- **Genome engineering:** explainable sgRNA discovery, ranking, and specificity assessment
+- **Structural bioinformatics:** protein preparation, virtual screening, molecular docking, and MD simulation
+- **Scientific applications:** reproducible tools that connect analysis, visualization, and decision support
+
+## GitHub analytics
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulbasitbehlim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA" alt="Abdul Basit's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasitbehlim&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Most-used languages" />
+
 <br/>
 
-<!-- Contribution Graph (working) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulbasitbehlim&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
 
 </div>
 
----
+## Let's connect
 
-### Connect with Me
+I enjoy collaborating on projects where **biotechnology, computation, and practical problem-solving** meet. If you are working on bioinformatics, bioprocess modeling, scientific software, or data-driven research, I would be glad to connect.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulbasitbehlim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbasitbehlim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://abdulbasitbehlim.github.io/)
+<a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- Typing SVG Footer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Open+to+collaborations+and+opportunities" alt="Footer" />
-<br/>
+<sub>Thanks for visiting — explore a project, open an issue, or start a conversation.</sub>
 
-⭐️ From [abdulbasitbehlim](https://github.com/abdulbasitbehlim)
-
-
-> **“The only way to do great work is to love what you do.”**  
-> Let’s keep building, experimenting, and turning ideas into powerful solutions.  
-
-
-<!-- ========== WATER WAVE FOOTER ========== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=120&section=footer" width="100%" alt="Footer Wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" width="100%" alt="Profile footer" />
 
 </div>
-
----
-
-
