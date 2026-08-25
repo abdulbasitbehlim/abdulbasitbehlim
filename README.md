@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=150&section=header" width="100%" alt="Profile header" />
 
 # **Hi there, Myself Abdul Basit Behlim 👋**
 
@@ -163,6 +162,6 @@ I enjoy collaborating on projects where **biotechnology, computation, and practi
 
 <sub>Thanks for visiting — explore a project, open an issue, or start a conversation.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" width="100%" alt="Profile footer" />
+
 
 </div>
