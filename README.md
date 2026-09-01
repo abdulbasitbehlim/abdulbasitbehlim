@@ -23,7 +23,7 @@
 I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology University** working at the intersection of biology, data, and software. I build practical tools that turn complex biological questions into transparent, reproducible workflows—from CRISPR guide design and structural bioinformatics to machine learning for bioprocess data.
 
 - 🧬 Building explainable bioinformatics and CRISPR-design tools
-- 🧫 Exploring machine learning and digital twins for industrial fermentation
+- 🧫 Exploring machine learning and deep learning models
 - 💊 Experienced with structure-based drug discovery, docking, and molecular dynamics workflows
 - 📊 Creating scientific dashboards and data-driven applications with Python
 - 🤝 Open to research collaborations, internships, and interdisciplinary projects
