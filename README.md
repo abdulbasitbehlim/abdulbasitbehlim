@@ -116,7 +116,7 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 ## Research interests
 
-- **Bioprocess intelligence:** predictive models, fault-aware analysis, and digital twins for fermentation
+- **Bioprocess intelligence:** predictive models, fault-aware analysis, and future digital twins concept on fermentation
 - **Genome engineering:** explainable sgRNA discovery, ranking, and specificity assessment
 - **Structural bioinformatics:** protein preparation, virtual screening, molecular docking, and MD simulation
 - **Scientific applications:** reproducible tools that connect analysis, visualization, and decision support
@@ -164,7 +164,7 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 ## Let's connect
 
-I enjoy collaborating on projects where **biotechnology, computation, and practical problem-solving** meet. If you are working on bioinformatics, bioprocess modeling, scientific software, or data-driven research, I would be glad to connect.
+I enjoy collaborating on projects where **biotechnology, computation, and practical problem-solving** meet. If you are working on bioinformatics, scientific software, or data-driven research, I would be glad to connect.
 
 <div align="center">
 
