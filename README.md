@@ -121,42 +121,6 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 - **Structural bioinformatics:** protein preparation, virtual screening, molecular docking, and MD simulation
 - **Scientific applications:** reproducible tools that connect analysis, visualization, and decision support
 
-## GitHub analytics
-
-<div align="center">
-
-<a href="https://github.com/abdulbasitbehlim?tab=followers">
-  <img src="https://img.shields.io/github/followers/abdulbasitbehlim?style=for-the-badge&logo=github&label=Followers&color=0891B2" alt="Live GitHub followers" />
-</a>
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img src="https://img.shields.io/github/stars/abdulbasitbehlim?style=for-the-badge&logo=github&label=Stars&color=7C3AED&affiliations=OWNER" alt="Live GitHub stars" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/abdulbasitbehlim">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live GitHub profile summary" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live GitHub repository statistics" />
-</a>
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live repositories by language" />
-</a>
-
-<br/>
-
-<a href="https://github.com/abdulbasitbehlim?tab=repositories">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulbasitbehlim&theme=tokyonight&animation=load&duration=2" alt="Live most-used commit languages" />
-</a>
-<a href="https://github.com/abdulbasitbehlim">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulbasitbehlim&theme=tokyonight&utcOffset=5.5&animation=load&duration=2" alt="Live productive-time analytics" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/abdulbasitbehlim"><strong>View my complete GitHub activity →</strong></a>
 
