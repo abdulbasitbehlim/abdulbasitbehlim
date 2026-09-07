@@ -11,6 +11,7 @@
 <p>
   <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/abdulbasitbh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" /></a>
   <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -78,6 +79,14 @@ I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology Univer
 
 <table>
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3><a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor">🧫 IndPenSim Penicillin Soft Sensor</a></h3>
+      <p>Machine-learning soft sensor for estimating penicillin concentration from IndPenSim fermentation batches, with baseline and fault-inclusive models, complete-batch validation, uncertainty estimation, and out-of-distribution detection.</p>
+      <p><a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View IndPenSim soft sensor" /></a></p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>Batch-wise Validation</code> <code>OOD Detection</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer">🧬 CRISPR Studio — gRNA Designer</a></h3>
       <p>Interactive Streamlit workbench for discovering, ranking, validating, and exporting SpCas9 guide RNA candidates, with NCBI/Ensembl retrieval and a transparent local-reference specificity screen.</p>
@@ -133,6 +142,7 @@ I enjoy collaborating on projects where **biotechnology, computation, and practi
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://huggingface.co/abdulbasitbh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" alt="Hugging Face" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Visit%20Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
 
