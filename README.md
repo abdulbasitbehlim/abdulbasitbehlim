@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=210&section=header&text=Abdul%20Basit%20Behlim&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Biotechnology%20%C3%97%20Bioinformatics%20%C3%97%20Scientific%20Software&descSize=16&descAlignY=55" alt="Profile header" />
 
-# Hi, I'm Abdul Basit Behlim 👋
+# Hi, Myself Abdul Basit Behlim 👋
 
 ### Industrial Biotechnology · Bioinformatics · Machine Learning · Scientific Software
 
@@ -120,8 +120,6 @@ The goal is to connect sequence-level biological information with interpretable 
 ### 🧫 Bioprocess intelligence and digital twins
 Extending machine-learning workflows for fermentation toward **fault-inclusive soft sensing, uncertainty estimation, OOD detection, and digital-twin concepts** for biological manufacturing systems.
 
-### 🌱 Intelligent biosensing
-Exploring sensor-to-AI workflows for biological and environmental measurements, including **signal acquisition, feature extraction, machine-learning interpretation, and user-facing applications**.
 
 ## Technical toolkit
 
@@ -201,7 +199,8 @@ I am interested in collaborations where **biotechnology, bioinformatics, machine
 
 <br/><br/>
 
-<sub>Biotechnology × computation × reproducible research software</sub>
+<sub>Thanks for visiting my profile</sub>
+<sub>Biotechnology × Computational Biology × AI/ML</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" alt="Profile footer" />
 
