@@ -95,6 +95,7 @@ Machine-learning soft sensor for estimating penicillin concentration from IndPen
 General-purpose SpCas9/CRISPRi guide-design workbench with NCBI/Ensembl sequence retrieval, transparent guide ranking, local off-target screening, and TSS-aware CRISPRi support.
 
 <p>
+<a href="https://crispr-grna-designer-v6mhgxd4o3eqbhgur3anvh.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="CRISPR Studio live app" /></a>
 <a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer"><img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="CRISPR Studio project" /></a>
 </p>
 
@@ -199,8 +200,11 @@ I am interested in collaborations where **biotechnology, bioinformatics, machine
 
 <br/><br/>
 
-<sub>Thanks for visiting my profile</sub>
-<br/><br/>
+### Thank you for visiting my GitHub profile! 🙏
+
+I appreciate your time and interest in my work. Feel free to explore my projects, connect with me, or reach out for research collaborations.
+
+<br/>
 <sub>Biotechnology × Computational Biology × AI/ML</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" alt="Profile footer" />
