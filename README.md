@@ -200,7 +200,7 @@ I am interested in collaborations where **biotechnology, bioinformatics, machine
 
 <br/><br/>
 
-### Thank you for visiting my GitHub profile! 🙏
+### Thank you for visiting my GitHub profile! 🙂
 
 I appreciate your time and interest in my work. Feel free to explore my projects, connect with me, or reach out for research collaborations.
 
