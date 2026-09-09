@@ -200,6 +200,7 @@ I am interested in collaborations where **biotechnology, bioinformatics, machine
 <br/><br/>
 
 <sub>Thanks for visiting my profile</sub>
+<br/><br/>
 <sub>Biotechnology × Computational Biology × AI/ML</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=footer" alt="Profile footer" />
