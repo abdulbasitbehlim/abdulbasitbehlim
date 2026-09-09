@@ -117,9 +117,6 @@ Developing an end-to-end computational workflow for **phage host prediction**:
 
 The goal is to connect sequence-level biological information with interpretable AI/ML models for phage–host analysis.
 
-### 🧪 Natural endolysins against Gram-negative bacteria
-Curating an **ML-ready literature-backed dataset of natural, experimentally validated endolysins** active against Gram-negative bacteria, with linked papers, DOI information, biological metadata, and experimental evidence.
-
 ### 🧫 Bioprocess intelligence and digital twins
 Extending machine-learning workflows for fermentation toward **fault-inclusive soft sensing, uncertainty estimation, OOD detection, and digital-twin concepts** for biological manufacturing systems.
 
