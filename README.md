@@ -118,9 +118,6 @@ Developing an end-to-end computational workflow for **phage host prediction**:
 
 The goal is to connect sequence-level biological information with interpretable AI/ML models for phage–host analysis.
 
-### 🧫 Bioprocess intelligence and digital twins
-Extending machine-learning workflows for fermentation toward **fault-inclusive soft sensing, uncertainty estimation, OOD detection, and digital-twin concepts** for biological manufacturing systems.
-
 
 ## Technical toolkit
 
