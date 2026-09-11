@@ -170,7 +170,6 @@ The goal is to connect sequence-level biological information with interpretable 
 
 - **Genome engineering:** CRISPR guide design, multi-target editing, and transparent validation
 - **Phage biology & AMR:** phage annotation, endolysins, host prediction, and protein representations
-- **Bioprocess intelligence:** soft sensors, uncertainty, OOD detection, and digital twins
 - **Structural bioinformatics:** molecular docking, protein–ligand analysis, and computational modelling
 - **Scientific software:** reproducible research tools, dashboards, validation, and data provenance
 
