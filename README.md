@@ -164,7 +164,6 @@ The goal is to connect sequence-level biological information with interpretable 
 ## Selected additional projects
 
 - 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** — interactive simulation and visualization of antigen–scFv diagnostic signals.
-- 🏦 **[ABB Bank](https://github.com/abdulbasitbehlim/ABB-Bank)** — educational full-stack banking system built with Flask and SQLite.
 - 🎙️ **[Jarvis AI Assistant](https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant)** — voice-controlled Python desktop assistant with speech and AI features.
 
 ## Research interests
