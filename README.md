@@ -163,6 +163,7 @@ The goal is to connect sequence-level biological information with interpretable 
 
 ## Selected additional projects
 
+- 🤖 **[SAFU AI Automation Agent](https://github.com/abdulbasitbehlim/SAFU-AI-Agent)** — personal desktop AI assistant for voice interaction, intelligent automation, and everyday productivity.
 - 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** — interactive simulation and visualization of antigen–scFv diagnostic signals.
 - 🎙️ **[Jarvis AI Assistant](https://github.com/abdulbasitbehlim/Jarvis-AI-Assistant)** — voice-controlled Python desktop assistant with speech and AI features.
 
