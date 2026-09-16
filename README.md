@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:7C3AED&height=200&section=header&text=Abdul%20Basit%20Behlim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Abdul Basit Behlim wave header" />
 
-<img src="./assets/profile-cover-4k.svg" width="100%" alt="Abdul Basit Behlim - Data Scientist, Computational Biology and Bioinformatics" />
+<img src="./assets/Cover%20Image.png" width="100%" alt="Abdul Basit Behlim - Data Scientist, Computational Biology and Bioinformatics" />
 
 <br/>
 
@@ -34,7 +34,7 @@ Here you will find projects spanning **phage biology, CRISPR, microbial genomics
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="./assets/hello-boy-sticker.svg" width="230" alt="Friendly boy waving and saying Hello" />
+<img src="./assets/Hello%20Boy.png" width="230" alt="Friendly boy waving and saying Hello" />
 
 </td>
 </tr>
