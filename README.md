@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:7C3AED&height=200&section=header&text=Abdul%20Basit%20Behlim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Abdul Basit Behlim wave header" />
+
 <img src="./assets/profile-cover.webp" width="100%" alt="Abdul Basit Behlim — Data Scientist, Computational Biology and Bioinformatics" />
 
 <br/>
@@ -117,8 +119,6 @@ Bacterial host prediction
 
 The objective is to combine biologically meaningful sequence information with interpretable AI/ML methods for phage–bacteria association analysis.
 
-
-
 ## Technical toolkit
 
 <div align="center">
@@ -177,6 +177,14 @@ I am interested in research collaborations where **biotechnology, computational 
 
 <br/><br/>
 
+### Thank you for visiting my profile
+
+I appreciate your time and interest in my work.
+
 <sub>Biotechnology × Computational Biology × Data Science × AI/ML</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=120&section=footer" alt="Wave footer" />
 
 </div>
