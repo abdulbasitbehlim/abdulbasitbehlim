@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-cover.jpg" width="100%" alt="Abdul Basit Behlim — Data Scientist, Computational Biology and Bioinformatics" />
+<img src="./assets/profile-cover.webp" width="100%" alt="Abdul Basit Behlim — Data Scientist, Computational Biology and Bioinformatics" />
 
 <br/>
 
