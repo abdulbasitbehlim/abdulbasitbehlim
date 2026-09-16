@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:7C3AED&height=200&section=header&text=Abdul%20Basit%20Behlim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Abdul Basit Behlim wave header" />
 
-<img src="./assets/profile-cover.webp" width="100%" alt="Abdul Basit Behlim — Data Scientist, Computational Biology and Bioinformatics" />
+<img src="./assets/profile-cover-4k.svg" width="100%" alt="Abdul Basit Behlim - Data Scientist, Computational Biology and Bioinformatics" />
 
 <br/>
 
@@ -21,6 +21,25 @@
 
 ---
 
+<table>
+<tr>
+<td width="72%" valign="middle">
+
+## Hello, welcome to my GitHub 👋
+
+I work at the intersection of **biology, bioinformatics, data science, machine learning, and scientific software**. My focus is on building practical computational tools that help turn biological questions into transparent and reproducible workflows.
+
+Here you will find projects spanning **phage biology, CRISPR, microbial genomics, structural bioinformatics, bioprocess modelling, and AI/ML for biotechnology**.
+
+</td>
+<td width="28%" align="center" valign="middle">
+
+<img src="./assets/hello-boy-sticker.svg" width="230" alt="Friendly boy waving and saying Hello" />
+
+</td>
+</tr>
+</table>
+
 ## About me
 
 I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology University** working at the intersection of biology, data science, bioinformatics, and research software.
@@ -31,11 +50,11 @@ My work focuses on turning biological questions into **transparent, reproducible
 
 ## What I work on
 
-- 🦠 **Phage & microbial bioinformatics** — phage annotation, endolysin discovery, sequence analysis, protein representations, and host prediction
-- 🧬 **Genome engineering** — CRISPR guide design, multi-gene targeting, validation, and sequence provenance
-- 🧫 **Bioprocess data science** — soft sensors, fault-inclusive modelling, uncertainty, and out-of-distribution analysis
-- 🔬 **Structural bioinformatics** — protein structure analysis, molecular docking, and computational modelling
-- 🛠️ **Scientific software** — Python-based tools, Streamlit applications, reproducible pipelines, and research dashboards
+- 🦠 **Phage & microbial bioinformatics** - phage annotation, endolysin discovery, sequence analysis, protein representations, and host prediction
+- 🧬 **Genome engineering** - CRISPR guide design, multi-gene targeting, validation, and sequence provenance
+- 🧫 **Bioprocess data science** - soft sensors, fault-inclusive modelling, uncertainty, and out-of-distribution analysis
+- 🔬 **Structural bioinformatics** - protein structure analysis, molecular docking, and computational modelling
+- 🛠️ **Scientific software** - Python-based tools, Streamlit applications, reproducible pipelines, and research dashboards
 
 ## Featured projects
 
@@ -80,7 +99,7 @@ Machine-learning soft sensor for estimating penicillin concentration from simula
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [CRISPR Studio — gRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer)
+### ⚙️ [CRISPR Studio - gRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer)
 
 General-purpose SpCas9/CRISPRi design workbench with NCBI/Ensembl sequence retrieval, transparent guide ranking, local off-target screening, and TSS-aware CRISPRi support.
 
@@ -117,7 +136,7 @@ Protein sequence representations / embeddings
 Bacterial host prediction
 ```
 
-The objective is to combine biologically meaningful sequence information with interpretable AI/ML methods for phage–bacteria association analysis.
+The objective is to combine biologically meaningful sequence information with interpretable AI/ML methods for phage-bacteria association analysis.
 
 ## Technical toolkit
 
@@ -146,24 +165,24 @@ The objective is to combine biologically meaningful sequence information with in
 | Area | Details |
 |---|---|
 | 🎓 **Education** | M.Sc. Industrial Biotechnology, Gujarat Biotechnology University |
-| 🏅 **National rank** | GAT-B 2025 — All India Rank 62; DBT-supported graduate fellowship |
+| 🏅 **National rank** | GAT-B 2025 - All India Rank 62; DBT-supported graduate fellowship |
 | 🔬 **Research experience** | Structure-based study of human β-cardiac myosin inhibitors at IIT Roorkee |
-| 🏆 **Recognition** | Best Student of the Year Award (2022–24), MBSI with HiMedia Laboratories |
+| 🏆 **Recognition** | Best Student of the Year Award (2022-24), MBSI with HiMedia Laboratories |
 
 ## How I approach scientific software
 
 I aim to keep research tools:
 
-- **Biologically grounded** — scientific assumptions and limitations are stated clearly
-- **Reproducible** — versions, provenance, benchmark inputs, and tests are retained
-- **Interpretable** — model or heuristic outputs are presented with appropriate context
-- **Usable** — researchers can run workflows through practical interfaces and export results
-- **Open to validation** — computational predictions are treated as evidence to investigate, not substitutes for experimental confirmation
+- **Biologically grounded** - scientific assumptions and limitations are stated clearly
+- **Reproducible** - versions, provenance, benchmark inputs, and tests are retained
+- **Interpretable** - model or heuristic outputs are presented with appropriate context
+- **Usable** - researchers can run workflows through practical interfaces and export results
+- **Open to validation** - computational predictions are treated as evidence to investigate, not substitutes for experimental confirmation
 
 ## Additional projects
 
-- 🤖 **[SAFU AI Automation Agent](https://github.com/abdulbasitbehlim/SAFU-AI-Agent)** — desktop AI assistant for voice interaction and productivity automation
-- 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** — interactive simulation and visualization of antigen–scFv diagnostic signals
+- 🤖 **[SAFU AI Automation Agent](https://github.com/abdulbasitbehlim/SAFU-AI-Agent)** - desktop AI assistant for voice interaction and productivity automation
+- 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** - interactive simulation and visualization of antigen-scFv diagnostic signals
 
 ## Connect
 
