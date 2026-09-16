@@ -117,9 +117,7 @@ Bacterial host prediction
 
 The objective is to combine biologically meaningful sequence information with interpretable AI/ML methods for phage–bacteria association analysis.
 
-### 🧫 Bioprocess soft sensing
 
-Building machine-learning workflows for fermentation data with emphasis on **complete-batch validation, fault-inclusive modelling, uncertainty, and out-of-distribution behaviour**.
 
 ## Technical toolkit
 
