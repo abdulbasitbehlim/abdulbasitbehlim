@@ -192,8 +192,8 @@ I am interested in research collaborations where **biotechnology, computational 
 <strong>Thank you for visiting my profile</strong>
 <br/>
 <sub>Biotechnology × AI/ML for Biological Systems × Computational Biology × Bioinformatics</sub>
-<br/>
-<img src="./assets/buy-me-a-chai.svg" width="260" alt="Buy me a Chai" />
-<br/>
+<br/><br/>
+<img src="./assets/buy-me-a-chai.svg" width="260" alt="☕ Buy me a Chai ✨" />
+<br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=90&section=footer" alt="Wave footer" />
 </div>
