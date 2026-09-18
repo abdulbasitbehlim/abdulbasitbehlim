@@ -204,13 +204,11 @@ I am interested in research collaborations where **biotechnology, computational 
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%98%95+Fueled+by+chai+%26+scientific+curiosity;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%9A%A1+Fueled+by+science%2C+curiosity+%26+enthusiasm;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
 <br/><br/>
 <strong>Thank you for visiting my profile</strong>
 <br/>
 <sub>Biotechnology × AI/ML for Biological Systems × Computational Biology × Bioinformatics</sub>
 <br/><br/>
-<img src="./assets/buy-me-a-chai.svg" width="260" alt="☕ Buy me a Chai ✨" />
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=90&section=footer" alt="Wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=150&section=footer" alt="Wave footer" />
 </div>
