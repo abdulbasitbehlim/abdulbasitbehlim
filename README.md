@@ -19,11 +19,11 @@
 <tr>
 <td width="72%" valign="middle">
 
-## Hello, welcome to my GitHub 👋
+## Hello, welcome to my GitHub Account 👋
 
 I work at the intersection of **biology, bioinformatics, data science, machine learning, and scientific software**. My focus is on building practical computational tools that help turn biological questions into transparent and reproducible workflows.
 
-Here you will find projects spanning **phage biology, CRISPR, microbial genomics, structural bioinformatics, bioprocess modelling, and AI/ML for biotechnology**.
+Here, you will find projects spanning **phage biology, CRISPR, microbial genomics, structural bioinformatics, bioprocess modelling, and AI/ML for biotechnology**.
 
 </td>
 <td width="28%" align="center" valign="middle">
@@ -36,7 +36,7 @@ Here you will find projects spanning **phage biology, CRISPR, microbial genomics
 
 ## About me
 
-I am an **M.Sc. Industrial Biotechnology student at Gujarat Biotechnology University** working at the intersection of biology, data science, bioinformatics, and research software.
+I am an **M.Sc. Biotechnology student** specialization in **Industrial Biotechnology** at **Gujarat Biotechnology University** working at the intersection of biology, data science, bioinformatics, and research software.
 
 My work focuses on turning biological questions into **transparent, reproducible, and practical computational workflows**. I am especially interested in microbial genomics, phage biology, antimicrobial research, genome engineering, structural bioinformatics, and machine-learning applications in biotechnology.
 
