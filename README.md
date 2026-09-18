@@ -141,16 +141,33 @@ The objective is to combine biologically meaningful sequence information with in
 <br/>
 
 **Data science & machine learning**  
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Plotly` · `Streamlit`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 **Bioinformatics & computational biology**  
-`Biopython` · `NCBI` · `Ensembl` · `CRISPR design` · `Phage bioinformatics` · `Protein embeddings`
+<img src="https://img.shields.io/badge/Biopython-009688?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
+<img src="https://img.shields.io/badge/NCBI-336699?style=for-the-badge&logo=databricks&logoColor=white" alt="NCBI" />
+<img src="https://img.shields.io/badge/Ensembl-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" alt="Ensembl" />
+<img src="https://img.shields.io/badge/CRISPR%20Design-2E7D32?style=for-the-badge&logo=target&logoColor=white" alt="CRISPR Design" />
+<img src="https://img.shields.io/badge/Phage%20Bioinformatics-00897B?style=for-the-badge&logo=biotech&logoColor=white" alt="Phage Bioinformatics" />
+<img src="https://img.shields.io/badge/Protein%20Embeddings-7B1FA2?style=for-the-badge&logo=abstract&logoColor=white" alt="Protein Embeddings" />
 
 **Structural bioinformatics**  
-`UCSF ChimeraX` · `HADDOCK` · `Schrödinger Suite`
+<img src="https://img.shields.io/badge/UCSF%20ChimeraX-455A64?style=for-the-badge&logo=opengl&logoColor=white" alt="UCSF ChimeraX" />
+<img src="https://img.shields.io/badge/HADDOCK-00695C?style=for-the-badge&logo=moleculer&logoColor=white" alt="HADDOCK" />
+<img src="https://img.shields.io/badge/Schr%C3%B6dinger%20Suite-5E35B1?style=for-the-badge&logo=atom&logoColor=white" alt="Schrödinger Suite" />
 
 **Software & reproducibility**  
-`Git` · `GitHub Actions` · `Docker` · `REST APIs` · `Automated testing`
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Automated%20Testing-43A047?style=for-the-badge&logo=pytest&logoColor=white" alt="Automated Testing" />
 
 </div>
 
