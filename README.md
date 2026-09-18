@@ -4,22 +4,16 @@
 
 <img src="./assets/Cover%20Image.png" width="100%" alt="Abdul Basit Behlim - Data Scientist, Computational Biology and Bioinformatics" />
 
-<br/>
-
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/abdulbasitbh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-**Computational biology · Bioinformatics · Machine learning · Scientific software**
-
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2200&amp;pause=650&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=36&amp;lines=Computational+Biology;Bioinformatics;AI+%26+ML+for+Biological+Systems" alt="Typing animation: Computational Biology, Bioinformatics, AI and ML for Biological Systems" />
+<br/>
 <img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
 
 </div>
-
----
 
 <table>
 <tr>
@@ -144,7 +138,7 @@ The objective is to combine biologically meaningful sequence information with in
 
 <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,linux,vscode,docker&theme=dark" alt="Core technology icons" />
 
-<br/><br/>
+<br/>
 
 **Data science & machine learning**  
 `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Plotly` · `Streamlit`
@@ -194,7 +188,7 @@ I am interested in research collaborations where **biotechnology, computational 
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/><br/>
+<br/>
 
 ### Thank you for visiting my profile
 
@@ -202,7 +196,7 @@ I appreciate your time and interest in my work.
 
 <sub>Biotechnology × Computational Biology × Data Science × AI/ML</sub>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=120&section=footer" alt="Wave footer" />
 
