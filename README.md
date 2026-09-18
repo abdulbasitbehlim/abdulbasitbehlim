@@ -183,21 +183,14 @@ I aim to keep research tools:
 I am interested in research collaborations where **biotechnology, computational biology, bioinformatics, machine learning, and practical scientific software** come together.
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 <br/>
-
-### Thank you for visiting my profile
-
-I appreciate your time and interest in my work.
-
-<sub>Biotechnology × Computational Biology × Data Science × AI/ML</sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%98%95+Fueled+by+chai+%26+scientific+curiosity;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=120&section=footer" alt="Wave footer" />
-
+<strong>Thank you for visiting my profile</strong>
+<br/>
+<sub>Biotechnology × AI/ML for Biological Systems × Computational Biology × Bioinformatics</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=90&section=footer" alt="Wave footer" />
 </div>
