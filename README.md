@@ -9,7 +9,7 @@
 <a href="https://huggingface.co/abdulbasitbh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2200&amp;pause=650&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=36&amp;lines=Computational+Biology;Bioinformatics;AI+%26+ML+for+Biological+Systems" alt="Typing animation: Computational Biology, Bioinformatics, AI and ML for Biological Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2200&amp;pause=650&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=36&amp;lines=Computational+Biology;Bioinformatics;AI+%26+ML+for+Biological+Systems" alt="Typing animation: Computational Biology, Bioinformatics, AI and ML for Biological Systems" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
 
