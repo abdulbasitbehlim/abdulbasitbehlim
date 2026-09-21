@@ -7,6 +7,7 @@
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://huggingface.co/abdulbasitbh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" /></a>
+<a href="https://orcid.org/0009-0003-5240-5413"><img src="https://img.shields.io/badge/ORCID-0009--0003--5240--5413-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0003-5240-5413" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2200&amp;pause=650&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=36&amp;lines=Computational+Biology;Bioinformatics;AI+%26+ML+for+Biological+Systems" alt="Typing animation: Computational Biology, Bioinformatics, AI and ML for Biological Systems" />
@@ -82,11 +83,11 @@ Guide-design and validation workbench for **OpenCRISPR-1-compatible NGG targets*
 <tr>
 <td width="50%" valign="top">
 
-### 🧫 IndPenSim Penicillin Soft Sensor
+### 🧫 [IndPenSim Penicillin Soft Sensor](https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor)
 
 Machine-learning soft sensor for estimating penicillin concentration from simulated fermentation batches, with **normal-only and fault-inclusive models, batch-wise validation, uncertainty estimation, and OOD detection**.
 
-<img src="https://img.shields.io/badge/Repository-Private%20during%20research-6c757d?style=flat-square" alt="Repository private during research" />
+<a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/Repository-Public-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repository" /></a>
 
 `Python` `Machine Learning` `Bioprocessing` `OOD Detection` `Soft Sensor`
 
@@ -202,6 +203,7 @@ I am interested in research collaborations where **biotechnology, computational 
 <div align="center">
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://orcid.org/0009-0003-5240-5413"><img src="https://img.shields.io/badge/ORCID-0009--0003--5240--5413-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0003-5240-5413" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%9A%A1+Fueled+by+science%2C+curiosity+%26+enthusiasm;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
