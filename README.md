@@ -87,7 +87,7 @@ Guide-design and validation workbench for **OpenCRISPR-1-compatible NGG targets*
 Machine-learning soft sensor for estimating penicillin concentration from simulated fermentation batches, with **normal-only and fault-inclusive models, batch-wise validation, uncertainty estimation, and OOD detection**.
 
 <a href="https://doi.org/10.64898/2026.09.21.753176"><img src="https://img.shields.io/badge/Preprint-Read%20Paper-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="Read the IndPenSim preprint" /></a>
-<a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/Repository-Public-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repository" /></a>
+<a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
 
 `Python` `Machine Learning` `Bioprocessing` `OOD Detection` `Soft Sensor`
 
@@ -135,40 +135,45 @@ The objective is to combine biologically meaningful sequence information with in
 
 ## Technical toolkit
 
+The stack below reflects the technologies used across my current GitHub repositories, including CRISPR design tools, the IndPenSim soft-sensor workflow, the venom-signal dashboard, and this portfolio.
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,sqlite,git,github,linux,vscode,docker&theme=dark" alt="Core technology icons" />
+**Core development & deployment**  
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,docker&theme=dark" alt="Core development technology icons" />
 
-<br/>
+<br/><br/>
 
-**Data science & machine learning**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python Requests" />
+
+**Scientific computing & machine learning**  
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Joblib-5A5A5A?style=for-the-badge&logo=python&logoColor=white" alt="Joblib" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
-**Bioinformatics & computational biology**  
+**Bioinformatics & genome engineering**  
 <img src="https://img.shields.io/badge/Biopython-009688?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
 <img src="https://img.shields.io/badge/NCBI-336699?style=for-the-badge&logo=databricks&logoColor=white" alt="NCBI" />
 <img src="https://img.shields.io/badge/Ensembl-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" alt="Ensembl" />
-<img src="https://img.shields.io/badge/CRISPR%20Design-2E7D32?style=for-the-badge&logo=target&logoColor=white" alt="CRISPR Design" />
-<img src="https://img.shields.io/badge/Phage%20Bioinformatics-00897B?style=for-the-badge&logo=biotech&logoColor=white" alt="Phage Bioinformatics" />
-<img src="https://img.shields.io/badge/Protein%20Embeddings-7B1FA2?style=for-the-badge&logo=abstract&logoColor=white" alt="Protein Embeddings" />
+<img src="https://img.shields.io/badge/CRISPR-SpCas9-2E7D32?style=for-the-badge&logo=target&logoColor=white" alt="CRISPR SpCas9" />
+<img src="https://img.shields.io/badge/CRISPRi-dCas9--KRAB-00796B?style=for-the-badge&logo=target&logoColor=white" alt="CRISPRi dCas9-KRAB" />
+<img src="https://img.shields.io/badge/FASTA-Sequence%20Workflows-455A64?style=for-the-badge&logo=files&logoColor=white" alt="FASTA sequence workflows" />
 
-**Structural bioinformatics**  
-<img src="https://img.shields.io/badge/UCSF%20ChimeraX-455A64?style=for-the-badge&logo=opengl&logoColor=white" alt="UCSF ChimeraX" />
-<img src="https://img.shields.io/badge/HADDOCK-00695C?style=for-the-badge&logo=moleculer&logoColor=white" alt="HADDOCK" />
-<img src="https://img.shields.io/badge/Schr%C3%B6dinger%20Suite-5E35B1?style=for-the-badge&logo=atom&logoColor=white" alt="Schrödinger Suite" />
-
-**Software & reproducibility**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+**Testing & reproducibility**  
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Automated%20Testing-43A047?style=for-the-badge&logo=pytest&logoColor=white" alt="Automated Testing" />
+<img src="https://img.shields.io/badge/JSON-Exports-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON exports" />
+<img src="https://img.shields.io/badge/CSV-Data%20Workflows-217346?style=for-the-badge&logo=files&logoColor=white" alt="CSV data workflows" />
 
 </div>
 
