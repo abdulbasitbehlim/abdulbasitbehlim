@@ -86,6 +86,7 @@ Guide-design and validation workbench for **OpenCRISPR-1-compatible NGG targets*
 
 Machine-learning soft sensor for estimating penicillin concentration from simulated fermentation batches, with **normal-only and fault-inclusive models, batch-wise validation, uncertainty estimation, and OOD detection**.
 
+<a href="https://doi.org/10.64898/2026.09.21.753176"><img src="https://img.shields.io/badge/Preprint-Read%20Paper-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="Read the IndPenSim preprint" /></a>
 <a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/Repository-Public-2EA44F?style=flat-square&logo=github&logoColor=white" alt="Public GitHub repository" /></a>
 
 `Python` `Machine Learning` `Bioprocessing` `OOD Detection` `Soft Sensor`
