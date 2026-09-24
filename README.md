@@ -135,45 +135,32 @@ The objective is to combine biologically meaningful sequence information with in
 
 ## Technical toolkit
 
-The stack below reflects the technologies used across my current GitHub repositories, including CRISPR design tools, the IndPenSim soft-sensor workflow, the venom-signal dashboard, and this portfolio.
-
 <div align="center">
 
-**Core development & deployment**  
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux,vscode,docker&theme=dark" alt="Core development technology icons" />
+**Core**  
+<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode,linux,html,css,js&theme=dark" alt="Core development tools" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python Requests" />
-
-**Scientific computing & machine learning**  
+**Data science & machine learning**  
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Joblib-5A5A5A?style=for-the-badge&logo=python&logoColor=white" alt="Joblib" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 
-**Bioinformatics & genome engineering**  
+**Bioinformatics & scientific apps**  
 <img src="https://img.shields.io/badge/Biopython-009688?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/NCBI-336699?style=for-the-badge&logo=databricks&logoColor=white" alt="NCBI" />
 <img src="https://img.shields.io/badge/Ensembl-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" alt="Ensembl" />
 <img src="https://img.shields.io/badge/CRISPR-SpCas9-2E7D32?style=for-the-badge&logo=target&logoColor=white" alt="CRISPR SpCas9" />
-<img src="https://img.shields.io/badge/CRISPRi-dCas9--KRAB-00796B?style=for-the-badge&logo=target&logoColor=white" alt="CRISPRi dCas9-KRAB" />
-<img src="https://img.shields.io/badge/FASTA-Sequence%20Workflows-455A64?style=for-the-badge&logo=files&logoColor=white" alt="FASTA sequence workflows" />
 
 **Testing & reproducibility**  
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/JSON-Exports-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON exports" />
-<img src="https://img.shields.io/badge/CSV-Data%20Workflows-217346?style=for-the-badge&logo=files&logoColor=white" alt="CSV data workflows" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 </div>
 
