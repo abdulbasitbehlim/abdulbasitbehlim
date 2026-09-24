@@ -201,6 +201,8 @@ I am interested in research collaborations where **biotechnology, computational 
 <div align="center">
 <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://scholar.google.com/citations?hl=en&user=sKZ_zJoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar profile" /></a>
+<a href="https://github.com/abdulbasitbehlim"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://orcid.org/0009-0003-5240-5413"><img src="https://img.shields.io/badge/ORCID-0009--0003--5240--5413-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID 0009-0003-5240-5413" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
