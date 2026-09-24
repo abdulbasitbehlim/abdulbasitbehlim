@@ -198,8 +198,8 @@ I aim to keep research tools:
 I am interested in research collaborations where **biotechnology, computational biology, bioinformatics, machine learning, and practical scientific software** come together.
 
 <div align="center">
-<a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/><br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%9A%A1+Fueled+by+science%2C+curiosity+%26+enthusiasm;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
