@@ -192,7 +192,6 @@ I aim to keep research tools:
 
 ## Additional projects
 
-- 🤖 **[SAKHI AI Automation Agent](https://github.com/abdulbasitbehlim/SAKHI-AI-Agent)** - source-available, non-commercial desktop AI assistant for voice interaction and productivity automation
 - 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** - interactive simulation and visualization of antigen-scFv diagnostic signals
 
 ## Connect
