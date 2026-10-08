@@ -110,27 +110,6 @@ General-purpose SpCas9/CRISPRi design workbench with NCBI/Ensembl sequence retri
 <a href="https://github.com/abdulbasitbehlim?tab=repositories"><strong>Explore all repositories →</strong></a>
 </div>
 
-## Current research
-
-### 🦠 Phage AI/ML pipeline
-
-Developing an end-to-end computational workflow for phage-host analysis:
-
-```text
-Metagenomic data
-      ↓
-Viral / phage sequence detection
-      ↓
-Genome annotation
-      ↓
-Endolysin identification
-      ↓
-Protein sequence representations / embeddings
-      ↓
-Bacterial host prediction
-```
-
-The objective is to combine biologically meaningful sequence information with interpretable AI/ML methods for phage-bacteria association analysis.
 
 ## Technical toolkit
 
