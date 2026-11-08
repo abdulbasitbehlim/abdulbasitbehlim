@@ -171,6 +171,7 @@ I aim to keep research tools:
 ## Additional projects
 
 - 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** - interactive simulation and visualization of antigen-scFv diagnostic signals
+- - 🧬 [Basit Hub](https://abdulbasitbehlim.github.io/basit-hub/) ([code](https://github.com/abdulbasitbehlim/basit-hub)) - custom research start page with a 3D protein of the day, database search across PubMed, UniProt and PDB, and quick links for genomics, docking and ML.
 
 ## Connect
 
