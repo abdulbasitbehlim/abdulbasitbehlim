@@ -1,53 +1,45 @@
-<div align="center">
+<p align="center">
+  <a href="https://abdulbasitbehlim.github.io/">
+    <img src="./assets/header.svg" width="100%" alt="Abdul Basit Behlim - Computational Biologist and Bioinformatician">
+  </a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0891B2,100:7C3AED&height=200&section=header&text=Abdul%20Basit%20Behlim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="Abdul Basit Behlim wave header" />
+<p align="center">
+  <a href="https://abdulbasitbehlim.github.io/"><img src="./assets/btn-portfolio.svg" height="38" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
+  <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=sKZ_zJoAAAAJ"><img src="./assets/btn-scholar.svg" height="38" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0003-5240-5413"><img src="./assets/btn-orcid.svg" height="38" alt="ORCID"></a>
+</p>
 
-<img src="./assets/Cover%20Image.png" width="100%" alt="Abdul Basit Behlim - Data Scientist, Computational Biology and Bioinformatics" />
+## Hello, and welcome
 
-<a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2200&amp;pause=650&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=36&amp;lines=Computational+Biology;Bioinformatics;AI+%26+ML+for+Biological+Systems" alt="Typing animation: Computational Biology, Bioinformatics, AI and ML for Biological Systems" />
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
+I'm a biotechnology researcher who builds software. I take a biological question, turn it into a computational workflow, and try to make every step of that workflow something another researcher can inspect, test and improve.
 
-</div>
+I'm doing an **MSc in Biotechnology (Industrial Biotechnology)** at **Gujarat Biotechnology University**. My work so far covers CRISPR guide design, machine learning for fermentation, structural bioinformatics and, right now, the search for phage enzymes that kill drug-resistant bacteria.
 
-<table>
-<tr>
-<td width="72%" valign="middle">
+<p align="center">
+  <img src="./assets/glance.svg" width="100%" alt="At a glance: GAT-B 2025 All India Rank 62, three CRISPR design tools, one bioRxiv preprint, CSIR-UGC NET qualified">
+</p>
 
-## Hello, welcome to my GitHub Account 👋
+## What I'm working on now
 
-I work at the intersection of **biology, bioinformatics, data science, machine learning, and scientific software**. My focus is on building practical computational tools that help turn biological questions into transparent and reproducible workflows.
+**Endolysins against ESKAPE pathogens - my MSc dissertation** (Oct 2026 - Jun 2027, supervised by Dr. Dhaval Patel)
 
-Here, you will find projects spanning **phage biology, CRISPR, microbial genomics, structural bioinformatics, bioprocess modelling, and AI/ML for biotechnology**.
+Endolysins are enzymes that bacteriophages use to break open bacterial cell walls, which makes them a promising alternative to antibiotics. I'm mining public metagenomic datasets for new ones and ranking the best candidates against six drug-resistant hospital pathogens.
 
-</td>
-<td width="28%" align="center" valign="middle">
+- **Find** - build a curated, non-redundant set of phage proteins from metagenomes
+- **Detect** - pick out endolysins with protein language models, checked against domain search
+- **Match** - predict which bacteria each endolysin's phage infects
+- **Rank** - shortlist 10 to 20 candidates using sequence, structure and docking evidence
 
-<img src="./assets/Hello%20Boy.png" width="230" alt="Friendly boy waving and saying Hello" />
+## A small demo of what my CRISPR tools do
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/guide.svg" width="100%" alt="Animated guide finder: a demo DNA sequence is scanned and each 20-nucleotide guide beside an NGG site is highlighted in turn">
+</p>
 
-## About me
-
-I am an **M.Sc. Biotechnology student** specialization in **Industrial Biotechnology** at **Gujarat Biotechnology University** working at the intersection of biology, data science, bioinformatics, and research software.
-
-My work focuses on turning biological questions into **transparent, reproducible, and practical computational workflows**. I am especially interested in microbial genomics, phage biology, antimicrobial research, genome engineering, structural bioinformatics, and machine-learning applications in biotechnology.
-
-> **Current direction:** using data and biology together to build tools that are scientifically useful, interpretable, and reproducible.
-
-## What I work on
-
-- 🦠 **Phage & microbial bioinformatics** - phage annotation, endolysin discovery, sequence analysis, protein representations, and host prediction
-- 🧬 **Genome engineering** - CRISPR guide design, multi-gene targeting, validation, and sequence provenance
-- 🧫 **Bioprocess data science** - soft sensors, fault-inclusive modelling, uncertainty, and out-of-distribution analysis
-- 🔬 **Structural bioinformatics** - protein structure analysis, molecular docking, and computational modelling
-- 🛠️ **Scientific software** - Python-based tools, Streamlit applications, reproducible pipelines, and research dashboards
+Scan a sequence, find every NGG site, and surface the 20-nucleotide guide beside it. The real tools add ranking, specificity checks and a record of where every sequence came from.
 
 ## Featured projects
 
@@ -55,24 +47,22 @@ My work focuses on turning biological questions into **transparent, reproducible
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Plant MultiGene gRNA Designer](https://github.com/abdulbasitbehlim/Plant-MultiGene-gRNA-Designer)
+### [Plant MultiGene gRNA Designer](https://github.com/abdulbasitbehlim/Plant-MultiGene-gRNA-Designer)
 
-Research-oriented SpCas9 workflow for identifying a **single guide RNA that can target multiple homologous plant genes**, with mismatch-aware consensus design, exon/segment-safe scanning, validation, and sequence provenance.
+Finds **one SpCas9 guide that targets several homologous plant genes**, with mismatch-aware consensus design, per-gene evidence and explicit PASS / REVIEW / FAIL validation.
 
-<a href="https://plant-multigene-grna-designer.onrender.com/"><img src="https://img.shields.io/badge/Live%20App-Open-2EA44F?style=flat-square&logo=render&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/abdulbasitbehlim/Plant-MultiGene-gRNA-Designer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+[Open the app](https://plant-multigene-grna-designer.onrender.com/) · [Source](https://github.com/abdulbasitbehlim/Plant-MultiGene-gRNA-Designer)
 
-`Python` `Streamlit` `Biopython` `CRISPR` `Plant Genomics`
+`Python` `Streamlit` `Biopython` `CRISPR` `Plant genomics`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [OpenCRISPR-1 gRNA Designer](https://github.com/abdulbasitbehlim/OpenCRISPR1-gRNA-Designer)
+### [OpenCRISPR-1 gRNA Designer](https://github.com/abdulbasitbehlim/OpenCRISPR1-gRNA-Designer)
 
-Guide-design and validation workbench for **OpenCRISPR-1-compatible NGG targets**, including both-strand scanning, guide-expression analysis, local specificity review, and reproducible sequence provenance.
+A careful guide-design workbench for **OpenCRISPR-1**: both-strand NGG scanning, guide-format review, quality ranking and local specificity screening.
 
-<a href="https://opencrispr1-grna-designer.onrender.com/"><img src="https://img.shields.io/badge/Live%20App-Open-2EA44F?style=flat-square&logo=render&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/abdulbasitbehlim/OpenCRISPR1-gRNA-Designer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+[Open the app](https://opencrispr1-grna-designer.onrender.com/) · [Source](https://github.com/abdulbasitbehlim/OpenCRISPR1-gRNA-Designer)
 
 `Python` `Streamlit` `Biopython` `CRISPR` `Validation`
 
@@ -81,24 +71,22 @@ Guide-design and validation workbench for **OpenCRISPR-1-compatible NGG targets*
 <tr>
 <td width="50%" valign="top">
 
-### 🧫 [IndPenSim Penicillin Soft Sensor](https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor)
+### [IndPenSim Penicillin Soft Sensor](https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor)
 
-Machine-learning soft sensor for estimating penicillin concentration from simulated fermentation batches, with **normal-only and fault-inclusive models, batch-wise validation, uncertainty estimation, and OOD detection**.
+A machine-learning soft sensor that estimates penicillin concentration during fermentation, **including batches where something goes wrong**. Batch-wise validation, uncertainty and out-of-distribution detection.
 
-<a href="https://doi.org/10.64898/2026.09.21.753176"><img src="https://img.shields.io/badge/Preprint-Read%20Paper-B31B1B?style=flat-square&logo=doi&logoColor=white" alt="Read the IndPenSim preprint" /></a>
-<a href="https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor"><img src="https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
+[Read the preprint](https://doi.org/10.64898/2026.09.21.753176) · [Repository](https://github.com/abdulbasitbehlim/IndPenSim-penicillin-soft-sensor)
 
-`Python` `Machine Learning` `Bioprocessing` `OOD Detection` `Soft Sensor`
+`Python` `Machine learning` `Bioprocessing` `OOD detection`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [CRISPR Studio - gRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer)
+### [CRISPR Studio - gRNA Designer](https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer)
 
-General-purpose SpCas9/CRISPRi design workbench with NCBI/Ensembl sequence retrieval, transparent guide ranking, local off-target screening, and TSS-aware CRISPRi support.
+A general SpCas9 and CRISPRi design workbench with NCBI and Ensembl sequence lookup, transparent guide ranking and local off-target screening.
 
-<a href="https://crispr-grna-designer-v6mhgxd4o3eqbhgur3anvh.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+[Open the app](https://crispr-grna-designer-v6mhgxd4o3eqbhgur3anvh.streamlit.app/) · [Source](https://github.com/abdulbasitbehlim/CRISPR-gRNA-Designer)
 
 `Python` `Streamlit` `CRISPRi` `NCBI` `Ensembl`
 
@@ -106,87 +94,61 @@ General-purpose SpCas9/CRISPRi design workbench with NCBI/Ensembl sequence retri
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/abdulbasitbehlim?tab=repositories"><strong>Explore all repositories →</strong></a>
-</div>
+**More:** [AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard), an interactive simulation of antigen-scFv diagnostic signals · [Basit Hub](https://abdulbasitbehlim.github.io/basit-hub/) ([code](https://github.com/abdulbasitbehlim/basit-hub)), my research start page with a 3D protein of the day and database search · [all repositories](https://github.com/abdulbasitbehlim?tab=repositories)
 
+## Research areas
 
-## Technical toolkit
+| Area | What I do in it |
+|---|---|
+| **Phage and microbial bioinformatics** | Endolysin discovery, phage protein annotation, host prediction, protein language models |
+| **Genome engineering** | CRISPR guide design, multi-gene targeting, validation, sequence provenance |
+| **Bioprocess data science** | Soft sensors, fault-inclusive modelling, uncertainty, out-of-distribution analysis |
+| **Structural bioinformatics** | Protein structure analysis, molecular docking, molecular dynamics |
+| **Scientific software** | Python tools, Streamlit apps, reproducible pipelines |
 
-<div align="center">
+## Toolkit
 
-<p>
-<strong>Core development</strong><br/>
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode,linux&theme=dark" height="46" alt="Python, Git, GitHub, Docker, VS Code and Linux" />
-</p>
-
-<p>
-<strong>Data science & machine learning</strong><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-<p>
-<strong>Bioinformatics & scientific apps</strong><br/>
-<img src="https://img.shields.io/badge/Biopython-009688?style=flat-square&logo=python&logoColor=white" alt="Biopython" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/NCBI-336699?style=flat-square&logo=databricks&logoColor=white" alt="NCBI" />
-<img src="https://img.shields.io/badge/Ensembl-6A1B9A?style=flat-square&logo=databricks&logoColor=white" alt="Ensembl" />
-<img src="https://img.shields.io/badge/CRISPR-SpCas9-2E7D32?style=flat-square&logo=target&logoColor=white" alt="CRISPR SpCas9" />
-</p>
-
-<p>
-<strong>Web, testing & reproducibility</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="28" alt="HTML, CSS and JavaScript" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-</div>
+| | |
+|---|---|
+| **Core** | `Python` `Git` `GitHub` `Linux` `Docker` `VS Code` |
+| **Data and machine learning** | `NumPy` `Pandas` `SciPy` `scikit-learn` `Matplotlib` `Plotly` `Jupyter` |
+| **Bioinformatics** | `Biopython` `HMMER` `NCBI` `Ensembl` `Streamlit` |
+| **Structural biology** | `ChimeraX` `Schrödinger Glide` `HADDOCK` `AlphaFold / ESMFold` |
+| **Web and testing** | `HTML` `CSS` `JavaScript` `Pytest` `GitHub Actions` |
 
 ## Research snapshot
 
-| Area | Details |
+| | |
 |---|---|
-| 🎓 **Education** | M.Sc. Industrial Biotechnology, Gujarat Biotechnology University |
-| 🏅 **National rank** | GAT-B 2025 - All India Rank 62; DBT-supported graduate fellowship |
-| 🔬 **Research experience** | Structure-based study of human β-cardiac myosin inhibitors at IIT Roorkee |
-| 🏆 **Recognition** | Best Student of the Year Award (2022-24), MBSI with HiMedia Laboratories |
+| **Education** | MSc Biotechnology (Industrial Biotechnology), Gujarat Biotechnology University |
+| **National examinations** | GAT-B 2025, All India Rank 62 · CSIR-UGC NET, June 2026 · IIT JAM 2025, All India Rank 875 |
+| **Fellowship** | GAT-B National Fellowship, Department of Biotechnology, Government of India |
+| **Preprint** | [Fault-inclusive soft sensing of penicillin concentration](https://doi.org/10.64898/2026.09.21.753176), bioRxiv, 2026 |
+| **Research experience** | Structure-based study of human β-cardiac myosin inhibitors, IIT Roorkee |
+| **Recognition** | Best Student of the Year (2022-24), MBSI with HiMedia Laboratories |
 
 ## How I approach scientific software
 
-I aim to keep research tools:
-
-- **Biologically grounded** - scientific assumptions and limitations are stated clearly
-- **Reproducible** - versions, provenance, benchmark inputs, and tests are retained
-- **Interpretable** - model or heuristic outputs are presented with appropriate context
-- **Usable** - researchers can run workflows through practical interfaces and export results
-- **Open to validation** - computational predictions are treated as evidence to investigate, not substitutes for experimental confirmation
-
-## Additional projects
-
-- 🐍 **[AMS Venom Diagnostic Dashboard](https://github.com/abdulbasitbehlim/AMS-Venom-Diagnostic-Dashboard)** - interactive simulation and visualization of antigen-scFv diagnostic signals
-- 🧬 [Basit Hub](https://abdulbasitbehlim.github.io/basit-hub/) ([code](https://github.com/abdulbasitbehlim/basit-hub)) - custom research start page with a 3D protein of the day, database search across PubMed, UniProt and PDB, and quick links for genomics, docking and ML
+- **Biologically grounded** - assumptions and limitations are stated clearly
+- **Reproducible** - versions, provenance, benchmark inputs and tests are kept
+- **Interpretable** - outputs come with the context needed to judge them
+- **Usable** - researchers can run a workflow through a practical interface and export the results
+- **Open to validation** - a computational prediction is evidence to investigate, not a substitute for an experiment
 
 ## Connect
 
-I am interested in research collaborations where **biotechnology, computational biology, bioinformatics, machine learning, and practical scientific software** come together.
+I'm interested in research collaborations where biotechnology, computational biology and practical scientific software meet. If you have a biological question worth building on, write to me.
 
-<div align="center">
-<a href="https://abdulbasitbehlim.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abdulbasitbehlim3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2200&amp;pause=700&amp;color=FFD166&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=34&amp;lines=%E2%9A%A1+Fueled+by+science%2C+curiosity+%26+enthusiasm;%F0%9F%A7%AC+Open+to+research+collaborations;%F0%9F%9A%80+Building+biology+with+AI+%26+code" alt="Animated footer message" />
-<br/><br/>
-<strong>Thank you for visiting my profile</strong>
-<br/>
-<sub>Biotechnology × AI/ML for Biological Systems × Computational Biology × Bioinformatics</sub>
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891B2,100:0F766E&height=150&section=footer" alt="Wave footer" />
-</div>
+<p align="center">
+  <a href="https://abdulbasitbehlim.github.io/"><img src="./assets/btn-portfolio.svg" height="38" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdulbasitbehlim"><img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
+  <a href="mailto:abdulbasitbehlim3@gmail.com"><img src="./assets/btn-email.svg" height="38" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Open to research conversations">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulbasitbehlim&label=Profile%20views&color=0d9488&style=flat-square" alt="Profile views">
+</p>
